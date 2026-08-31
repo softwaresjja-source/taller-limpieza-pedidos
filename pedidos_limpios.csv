@@ -1,0 +1,136 @@
+pedido_id,fecha,producto,categoria,cantidad,precio_unitario,metodo_pago,estado,tiempo_entrega_min
+P0001,2026-08-03,Jugo natural,Bebida,1,7000.0,Transferencia,Entregado,45.0
+P0002,2026-08-17,Pizza personal,Comida,1,23000.0,Efectivo,Entregado,25.0
+P0003,2026-08-03,Hamburguesa clásica,Comida,1,18000.0,Efectivo,Entregado,30.0
+P0004,2026-08-19,Pizza personal,Comida,2,22000.0,Efectivo,Entregado,33.0
+P0005,2026-08-19,Ensalada,Comida,3,16000.0,Transferencia,Entregado,22.0
+P0006,2026-08-18,Gaseosa,Bebida,1,6000.0,Efectivo,Entregado,30.0
+P0007,2026-08-04,Café,Bebida,2,5000.0,Transferencia,Cancelado,
+P0008,2026-08-19,Café,Bebida,2,5000.0,Transferencia,Entregado,29.0
+P0009,2026-08-23,Ensalada,Comida,1,14000.0,Efectivo,Cancelado,
+P0010,2026-08-22,Hamburguesa clásica,Comida,2,18000.0,Transferencia,Entregado,14.0
+P0011,2026-08-15,Gaseosa,Bebida,1,6000.0,Tarjeta,En preparación,
+P0012,2026-08-03,Café,Bebida,1,5000.0,Transferencia,Entregado,39.0
+P0013,2026-08-15,Café,Bebida,2,5000.0,Tarjeta,Entregado,35.0
+P0014,2026-08-06,Pizza personal,Comida,1,23000.0,Tarjeta,Entregado,24.0
+P0015,2026-08-22,Sándwich de pollo,Comida,2,16000.0,Efectivo,Entregado,28.0
+P0016,2026-08-23,Helado,Postre,2,9000.0,Tarjeta,Entregado,34.0
+P0017,2026-08-03,Brownie,Postre,2,8000.0,Tarjeta,Entregado,27.0
+P0018,2026-08-23,Brownie,Postre,3,7000.0,Tarjeta,Entregado,27.0
+P0019,2026-08-01,Brownie,Postre,1,8000.0,Tarjeta,Entregado,16.0
+P0020,2026-08-16,Jugo natural,Bebida,1,8000.0,Efectivo,Entregado,34.0
+P0021,2026-08-13,Ensalada,Comida,1,15000.0,Tarjeta,Entregado,31.0
+P0022,2026-08-13,Brownie,Postre,1,8000.0,Transferencia,Entregado,32.0
+P0023,2026-08-09,Café,Bebida,1,5000.0,Transferencia,Cancelado,
+P0024,2026-08-05,Gaseosa,Bebida,1,6000.0,Efectivo,Entregado,16.0
+P0025,2026-08-01,Sándwich de pollo,Comida,1,16000.0,Tarjeta,Entregado,44.0
+P0026,2026-08-05,Sándwich de pollo,Comida,1,16000.0,Tarjeta,Entregado,31.0
+P0027,2026-08-11,Helado,Postre,1,10000.0,Efectivo,En preparación,
+P0028,2026-08-22,Helado,Postre,2,8000.0,Transferencia,Entregado,26.0
+P0029,2026-08-04,Gaseosa,Bebida,2,6000.0,Tarjeta,Entregado,48.0
+P0030,2026-08-07,Gaseosa,Bebida,1,6000.0,Tarjeta,Entregado,29.0
+P0031,2026-08-02,Sándwich de pollo,Comida,1,16000.0,Efectivo,En preparación,
+P0032,2026-08-04,Hamburguesa clásica,Comida,2,18000.0,Tarjeta,Cancelado,
+P0033,2026-08-13,Hamburguesa clásica,Comida,1,18000.0,Efectivo,En preparación,
+P0034,2026-08-16,Café,Bebida,1,6000.0,Tarjeta,Entregado,16.0
+P0035,2026-08-16,Pizza personal,Comida,2,22000.0,Tarjeta,Entregado,26.0
+P0036,2026-08-09,Pizza personal,Comida,1,21000.0,Tarjeta,Entregado,9.0
+P0037,2026-08-17,Sándwich de pollo,Comida,2,15000.0,Tarjeta,Entregado,39.0
+P0038,2026-08-17,Sándwich de pollo,Comida,3,17000.0,Tarjeta,Entregado,26.0
+P0039,2026-08-12,Pizza personal,Comida,3,22000.0,Efectivo,Cancelado,
+P0040,2026-08-17,Jugo natural,Bebida,1,8000.0,Tarjeta,Cancelado,
+P0041,2026-08-13,Ensalada,Comida,2,15000.0,Transferencia,Entregado,23.0
+P0042,2026-08-12,Ensalada,Comida,1,16000.0,Transferencia,Entregado,39.0
+P0043,2026-08-09,Hamburguesa clásica,Comida,1,18000.0,Efectivo,Entregado,15.0
+P0044,2026-08-03,Jugo natural,Bebida,2,7000.0,Efectivo,Entregado,34.0
+P0046,2026-08-16,Brownie,Postre,2,9000.0,Transferencia,Entregado,24.0
+P0047,2026-08-13,Jugo natural,Bebida,3,6000.0,Transferencia,Entregado,19.0
+P0048,2026-08-21,Ensalada,Comida,2,15000.0,Tarjeta,Entregado,43.0
+P0049,2026-08-13,Pizza personal,Comida,3,22000.0,Transferencia,Entregado,45.0
+P0050,2026-08-05,Pizza personal,Comida,3,22000.0,Efectivo,Entregado,27.0
+P0051,2026-08-20,Sándwich de pollo,Comida,2,16000.0,Transferencia,Entregado,37.0
+P0052,2026-08-18,Brownie,Postre,3,8000.0,Transferencia,Entregado,28.0
+P0053,2026-08-17,Sándwich de pollo,Comida,1,15000.0,Transferencia,Entregado,35.0
+P0054,2026-08-01,Sándwich de pollo,Comida,2,16000.0,Tarjeta,Entregado,23.0
+P0055,2026-08-19,Ensalada,Comida,1,16000.0,Tarjeta,Entregado,14.0
+P0056,2026-08-02,Café,Bebida,2,5000.0,Transferencia,Entregado,13.0
+P0057,2026-08-14,Jugo natural,Bebida,2,8000.0,Transferencia,Cancelado,
+P0058,2026-08-17,Sándwich de pollo,Comida,2,16000.0,Efectivo,Cancelado,
+P0059,2026-08-05,Brownie,Postre,1,9000.0,Efectivo,Entregado,33.0
+P0060,2026-08-18,Sándwich de pollo,Comida,2,17000.0,Efectivo,Entregado,50.0
+P0062,2026-08-07,Pizza personal,Comida,2,21000.0,Tarjeta,Entregado,32.0
+P0063,2026-08-18,Hamburguesa clásica,Comida,1,19000.0,Efectivo,Entregado,25.0
+P0064,2026-08-17,Pizza personal,Comida,2,22000.0,Transferencia,En preparación,
+P0065,2026-08-17,Helado,Postre,1,9000.0,Transferencia,Entregado,47.0
+P0066,2026-08-09,Brownie,Postre,2,8000.0,Transferencia,Cancelado,
+P0067,2026-08-04,Ensalada,Comida,2,15000.0,Tarjeta,Entregado,32.0
+P0068,2026-08-14,Brownie,Postre,1,7000.0,Efectivo,Entregado,30.0
+P0069,2026-08-05,Ensalada,Comida,3,15000.0,Transferencia,Entregado,32.0
+P0070,2026-08-15,Jugo natural,Bebida,1,7000.0,Efectivo,Entregado,28.0
+P0071,2026-08-22,Pizza personal,Comida,2,22000.0,Efectivo,Entregado,
+P0072,2026-08-13,Sándwich de pollo,Comida,3,16000.0,Tarjeta,Cancelado,
+P0073,2026-08-03,Gaseosa,Bebida,1,6000.0,Transferencia,Entregado,17.0
+P0074,2026-08-15,Jugo natural,Bebida,1,7000.0,Tarjeta,Cancelado,
+P0075,2026-08-20,Hamburguesa clásica,Comida,2,18000.0,Efectivo,Cancelado,
+P0076,2026-08-04,Helado,Postre,1,8000.0,Efectivo,Entregado,34.0
+P0077,2026-08-09,Café,Bebida,1,4000.0,Efectivo,Entregado,29.0
+P0078,2026-08-05,Gaseosa,Bebida,3,6000.0,Transferencia,Entregado,40.0
+P0079,2026-08-03,Helado,Postre,2,9000.0,Tarjeta,Entregado,26.0
+P0080,2026-08-03,Hamburguesa clásica,Comida,3,18000.0,Tarjeta,Entregado,12.0
+P0081,2026-08-03,Hamburguesa clásica,Comida,3,17000.0,Transferencia,Entregado,29.0
+P0082,2026-08-15,Ensalada,Comida,1,15000.0,Efectivo,Entregado,45.0
+P0083,2026-08-20,Jugo natural,Bebida,2,7000.0,Efectivo,Entregado,26.0
+P0084,2026-08-06,Hamburguesa clásica,Comida,2,18000.0,Tarjeta,Entregado,21.0
+P0085,2026-08-21,Hamburguesa clásica,Comida,1,18000.0,Tarjeta,Entregado,19.0
+P0086,2026-08-17,Helado,Postre,1,9000.0,Transferencia,Entregado,20.0
+P0087,2026-08-09,Sándwich de pollo,Comida,1,16000.0,Efectivo,Cancelado,27.0
+P0088,2026-08-07,Hamburguesa clásica,Comida,1,19000.0,Transferencia,Cancelado,
+P0089,2026-08-22,Brownie,Postre,1,8000.0,Transferencia,Entregado,19.0
+P0090,2026-08-13,Gaseosa,Bebida,3,6000.0,Transferencia,Cancelado,
+P0091,2026-08-11,Café,Bebida,3,5000.0,Efectivo,Entregado,43.0
+P0092,2026-08-05,Sándwich de pollo,Comida,2,16000.0,Efectivo,Entregado,27.0
+P0093,2026-08-06,Pizza personal,Comida,3,22000.0,Efectivo,Entregado,30.0
+P0094,2026-08-22,Pizza personal,Comida,3,22000.0,Tarjeta,Cancelado,
+P0095,2026-08-15,Ensalada,Comida,3,15000.0,Efectivo,Entregado,42.0
+P0096,2026-08-09,Sándwich de pollo,Comida,1,16000.0,Tarjeta,Entregado,43.0
+P0097,2026-08-02,Jugo natural,Bebida,2,7000.0,Tarjeta,Entregado,28.0
+P0098,2026-08-11,Ensalada,Comida,1,15000.0,Tarjeta,Entregado,32.0
+P0099,2026-08-21,Pizza personal,Comida,2,22000.0,Efectivo,Cancelado,
+P0100,2026-08-09,Ensalada,Comida,2,14000.0,Efectivo,Entregado,36.0
+P0101,2026-08-13,Sándwich de pollo,Comida,2,17000.0,Transferencia,Entregado,28.0
+P0102,2026-08-19,Café,Bebida,1,5000.0,Transferencia,Entregado,13.0
+P0103,2026-08-11,Sándwich de pollo,Comida,3,17000.0,Transferencia,Entregado,35.0
+P0104,2026-08-21,Brownie,Postre,1,8000.0,Efectivo,En preparación,
+P0105,2026-08-23,Hamburguesa clásica,Comida,3,19000.0,Transferencia,Entregado,38.0
+P0106,2026-08-01,Sándwich de pollo,Comida,2,17000.0,Transferencia,En preparación,
+P0107,2026-08-05,Ensalada,Comida,1,14000.0,Transferencia,Entregado,33.0
+P0109,2026-08-16,Hamburguesa clásica,Comida,3,19000.0,Tarjeta,Entregado,28.0
+P0110,2026-08-18,Hamburguesa clásica,Comida,2,17000.0,Efectivo,Cancelado,
+P0111,2026-08-03,Helado,Postre,1,9000.0,Tarjeta,Entregado,24.0
+P0112,2026-08-21,Ensalada,Comida,3,15000.0,Tarjeta,Entregado,27.0
+P0113,2026-08-22,Brownie,Postre,2,7000.0,Tarjeta,Entregado,41.0
+P0114,2026-08-20,Hamburguesa clásica,Comida,2,18000.0,Efectivo,Entregado,43.0
+P0115,2026-08-19,Jugo natural,Bebida,1,7000.0,Efectivo,En preparación,
+P0116,2026-08-09,Hamburguesa clásica,Comida,2,17000.0,Transferencia,Entregado,36.0
+P0117,2026-08-10,Pizza personal,Comida,3,22000.0,Transferencia,Entregado,34.0
+P0119,2026-08-16,Helado,Postre,1,9000.0,Efectivo,Entregado,29.0
+P0121,2026-08-19,Gaseosa,Bebida,1,6000.0,Efectivo,Entregado,
+P0122,2026-08-12,Sándwich de pollo,Comida,3,17000.0,Efectivo,Entregado,23.0
+P0123,2026-08-08,Helado,Postre,1,8000.0,Tarjeta,Entregado,29.0
+P0124,2026-08-01,Brownie,Postre,2,7000.0,Tarjeta,Entregado,50.0
+P0125,2026-08-14,Brownie,Postre,2,8000.0,Tarjeta,Entregado,37.0
+P0126,2026-08-01,Gaseosa,Bebida,1,5000.0,Tarjeta,Entregado,26.0
+P0127,2026-08-23,Jugo natural,Bebida,2,6000.0,Efectivo,Entregado,25.0
+P0128,2026-08-13,Café,Bebida,1,5000.0,Tarjeta,Entregado,22.0
+P0129,2026-08-02,Pizza personal,Comida,1,22000.0,Tarjeta,Entregado,33.0
+P0130,2026-08-08,Pizza personal,Comida,1,22000.0,Tarjeta,Entregado,33.0
+P0131,2026-08-12,Gaseosa,Bebida,2,6000.0,Tarjeta,Entregado,17.0
+P0132,2026-08-18,Hamburguesa clásica,Comida,3,18000.0,Efectivo,Cancelado,
+P0133,2026-08-20,Pizza personal,Comida,1,22000.0,Efectivo,Entregado,34.0
+P0134,2026-08-05,Café,Bebida,2,4000.0,Efectivo,Cancelado,
+P0135,2026-08-10,Brownie,Postre,2,8000.0,Tarjeta,Entregado,24.0
+P0136,2026-08-16,Café,Bebida,2,5000.0,Transferencia,Entregado,42.0
+P0137,2026-08-03,Gaseosa,Bebida,1,6000.0,Efectivo,Entregado,31.0
+P0138,2026-08-15,Helado,Postre,2,10000.0,Tarjeta,Entregado,45.0
+P0139,2026-08-07,Brownie,Postre,2,8000.0,Efectivo,Cancelado,
+P0140,2026-08-03,Pizza personal,Comida,1,22000.0,Tarjeta,Cancelado,
