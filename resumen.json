@@ -1,0 +1,20 @@
+{
+    "filas": 145,
+    "columnas": 9,
+    "nulos_por_columna": {
+        "pedido_id": 0,
+        "fecha": 0,
+        "producto": 0,
+        "categoria": 0,
+        "cantidad": 0,
+        "precio_unitario": 2,
+        "metodo_pago": 0,
+        "estado": 1,
+        "tiempo_entrega_min": 31
+    },
+    "duplicados": 5,
+    "metodos_pago_unicos": 7,
+    "estados_unicos": 6,
+    "tiempo_medio_entregados": 31.6875,
+    "tiempo_mediana_entregados": 30.0
+}
